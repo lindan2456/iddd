@@ -1,1 +1,1 @@
-print("omega")
+print("omega1")
